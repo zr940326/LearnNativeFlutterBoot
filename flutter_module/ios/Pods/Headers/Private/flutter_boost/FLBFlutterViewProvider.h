@@ -1,0 +1,1 @@
+../../../../../.ios/Flutter/.symlinks/flutter_boost/ios/Classes/Adaptor/FLBFlutterViewProvider.h

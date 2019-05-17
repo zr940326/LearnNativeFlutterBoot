@@ -1,0 +1,37 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_boost (0.0.1):
+    - Flutter
+    - xservice_kit
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - flutter_boost
+    - xservice_kit
+  - xservice_kit (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/zhangrong/WorkDv/GitAppProject/FlutterDv/FiveTest2/flutter_module/.ios/Flutter/engine`)
+  - flutter_boost (from `/Users/zhangrong/WorkDv/GitAppProject/FlutterDv/FiveTest2/flutter_module/.ios/Flutter/.symlinks/flutter_boost/ios`)
+  - FlutterPluginRegistrant (from `/Users/zhangrong/WorkDv/GitAppProject/FlutterDv/FiveTest2/flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+  - xservice_kit (from `/Users/zhangrong/WorkDv/GitAppProject/FlutterDv/FiveTest2/flutter_module/.ios/Flutter/.symlinks/xservice_kit/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/zhangrong/WorkDv/GitAppProject/FlutterDv/FiveTest2/flutter_module/.ios/Flutter/engine"
+  flutter_boost:
+    :path: "/Users/zhangrong/WorkDv/GitAppProject/FlutterDv/FiveTest2/flutter_module/.ios/Flutter/.symlinks/flutter_boost/ios"
+  FlutterPluginRegistrant:
+    :path: "/Users/zhangrong/WorkDv/GitAppProject/FlutterDv/FiveTest2/flutter_module/.ios/Flutter/FlutterPluginRegistrant"
+  xservice_kit:
+    :path: "/Users/zhangrong/WorkDv/GitAppProject/FlutterDv/FiveTest2/flutter_module/.ios/Flutter/.symlinks/xservice_kit/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  flutter_boost: 6a083f2f1b67f9b08724d6c4b280a099d1b40797
+  FlutterPluginRegistrant: b761ee226861bee83e48a6917f6ab35d054c8533
+  xservice_kit: a86c64372b3e41e7d8e9b1a0b9139866680f525c
+
+PODFILE CHECKSUM: e7e9bc43396fd3312a9cc66dcaf52ac777204328
+
+COCOAPODS: 1.5.3
